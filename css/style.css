@@ -118,7 +118,7 @@ header .nav-container .profile-link a:hover{
 
 /* MAIN *//* MAIN *//* MAIN *//* MAIN *//* MAIN *//* MAIN *//* MAIN *//* MAIN *//* MAIN */
 
-.home-main, footer {
+.home-main{
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 75vh;
