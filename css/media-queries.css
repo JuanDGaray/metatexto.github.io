@@ -1,0 +1,14 @@
+@media(max-width:500px) {
+    
+    .footer{
+        display:none;
+        
+    }
+    .home-main{
+        height: 100vh;
+    }
+    header .nav-container .profile-link{
+        font-size: 1rem;
+    }
+
+}
